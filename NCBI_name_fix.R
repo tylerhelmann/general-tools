@@ -1,6 +1,7 @@
 
 # For strains listed in NCBI metadata, some have name duplications
-# and forbidden characters.
+# and forbidden characters. 
+# https://ftp.ncbi.nlm.nih.gov/genomes/README_assembly_summary.txt
 # This function takes the "organism_name" and "infraspecific_name"
 # from the strainlist (NCBI metadata categories) and
 # returns a consolidated and edited "final" strain name.
