@@ -2,6 +2,12 @@
 
 Short scripts from various projects.
 
+#### Download all fastq files from SRA bioproject 
+
+(Use 'SRA Run Selector' for metadata export: SraRunTable.txt.)
+
+- [download\_SRA\_files.sh](download_SRA_files.sh)
+
 #### PyParanoid input file pre-processing
 
 - [NCBI\_name\_fix.R](NCBI_name_fix.R)
